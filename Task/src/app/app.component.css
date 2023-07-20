@@ -1,0 +1,34 @@
+#navbarSupportedContent{
+    margin-left: 600px;
+  border-radius: 5px;
+}
+.nav-item{
+    font-size: 23px;
+    font-weight: 700;
+    text-indent: 10px;
+}
+#normal{
+    background-color: rgb(241, 241, 248);
+  box-shadow: 0 0.5rem 2rem rgb(172, 166, 166);
+
+}
+#head{
+  font-size: 30px;
+  font-weight: 700;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

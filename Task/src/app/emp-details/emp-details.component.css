@@ -1,0 +1,31 @@
+.tab{
+    margin-top: 100px;
+    box-shadow: 0 0.5rem 2rem rgb(172, 166, 166);
+    padding:5px
+
+}
+.btn-success{
+  margin-left: 77rem;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+  
+@media only screen and (max-width: 500px){
+
+    
+   .btn-success{
+    margin-left: -20px;
+    margin-left:33rem;
+    width:100px
+}
+ }
